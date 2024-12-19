@@ -450,6 +450,24 @@
 			whistlecane = true
 			whistlecane_mosaic = true
 
+		[types.cut_block_type.netherexp]
+			soul_slate = true
+			soul_slate_brick = true
+			soul_slate_tile = true
+			smooth_netherrack = true
+			netherrack_brick = true
+			basalt = true
+			polished_basalt = true
+			polished_basalt_brick = true
+			claret = true
+			smokestalk = true
+			silica_sandstone = true
+			cut_silica_sandstone = true
+			smooth_silica_sandstone = true
+			blue_nether_brick = true
+			stacked_bone = true
+			stacked_wither_bone = true
+
 		[types.cut_block_type.quark]
 			ancient_planks = true
 			azalea_planks = true
@@ -531,43 +549,15 @@
 			quicksoil_bricks = true
 			aether_dirt_bricks = true
 
-		[types.cut_block_type.mynethersdelight]
-			powdery = true
-			powdery_mosaic = true
-
-		[types.cut_block_type.palegarden]
-			resin_bricks = true
-
-		[types.cut_block_type.netherexp]
-			soul_slate = true
-			soul_slate_brick = true
-			soul_slate_tile = true
-			smooth_netherrack = true
-			netherrack_brick = true
-			basalt = true
-			polished_basalt = true
-			polished_basalt_brick = true
-			claret = true
-			smokestalk = true
-			silica_sandstone = true
-			cut_silica_sandstone = true
-			smooth_silica_sandstone = true
-			blue_nether_brick = true
-			stacked_bone = true
-			stacked_wither_bone = true
-
-		[types.cut_block_type.reevesfurniture]
-			scary = true
-
 	[types.cake]
 
 		[types.cake.blue_skies]
 			comet_berry_pie = true
 
-		[types.cake.mynethersdelight]
-			magma_cake = true
-
 	[types.wood_type]
+
+		[types.wood_type.netherexp]
+			claret = true
 
 		[types.wood_type.blue_skies]
 			crystallized = true
@@ -613,6 +603,9 @@
 			umbrella_tree = true
 			jellyshroom = true
 			lucernia = true
+
+		[types.wood_type.palegarden]
+			pale = true
 
 		[types.wood_type.cataclysm]
 			chorus = true
@@ -663,14 +656,139 @@
 		[types.wood_type.deeperdarker]
 			echo = true
 
-		[types.wood_type.mynethersdelight]
-			powdery = true
+	[types.stone_type]
 
-		[types.wood_type.palegarden]
-			pale = true
+		[types.stone_type.betternether]
+			blue_obsidian = true
 
-		[types.wood_type.netherexp]
-			claret = true
+		[types.stone_type.eldritch_end]
+			polished_spire_stone = true
+
+		[types.stone_type.betterend]
+			flavolite = true
+			violecite = true
+			sulphuric_rock = true
+			virid_jadestone = true
+			azure_jadestone = true
+			sandy_jadestone = true
+			umbralith = true
+			smaragdant_crystal = true
+
+		[types.stone_type.philipsruins]
+			frozen_prismarine = true
+
+		[types.stone_type.galosphere]
+			pink_salt = true
+			rose_pink_salt = true
+			pastel_pink_salt = true
+
+		[types.stone_type.chipped]
+			crying_obsidian = true
+			mud_bricks = true
+			angled_mud_bricks = true
+			angry_mud = true
+			arrow_mud = true
+			button_mud = true
+			carved_mud = true
+			centered_mud = true
+			chiseled_mud = true
+			cracked_mud_bricks = true
+			crunched_mud_bricks = true
+			crying_mud = true
+			cut_blank_mud = true
+			double_mud_bricks = true
+			duh_mud = true
+			engraved_mud = true
+			etched_mud_bricks = true
+			eye_mud = true
+			fancy_mud = true
+			fancy_chiseled_mud = true
+			glad_mud = true
+			heart_mud = true
+			horned_mud = true
+			inlayed_mud = true
+			keyhole_mud = true
+			large_tiled_mud = true
+			leaning_mud = true
+			mini_tiled_mud = true
+			offset_mud_bricks = true
+			pancake_mud = true
+			panelled_mud = true
+			placed_mud = true
+			polished_mud = true
+			quad_mud = true
+			rough_mud = true
+			rough_panelled_mud = true
+			rune_mud = true
+			sad_mud = true
+			sigil_mud = true
+			small_mud_bricks = true
+			smooth_mud = true
+			smooth_ringed_mud = true
+			smoothed_double_inlayed_mud = true
+			spiral_mud = true
+			stacked_mud_bricks = true
+			star_mud = true
+			symbol_mud = true
+			thick_inlayed_mud = true
+			tiled_mud_bricks = true
+			tiny_mud_bricks = true
+			tiny_layered_mud_bricks = true
+			unamused_mud = true
+			vertical_cut_mud = true
+			vertical_disordered_mud_bricks = true
+			bordered_mud = true
+			brick_bordered_mud = true
+			edged_mud_bricks = true
+			hard_mud = true
+			scaly_mud = true
+			tiled_bordered_mud = true
+			massive_mud_bricks = true
+			diamond_mud_bricks = true
+			loreful_mud = true
+
+		[types.stone_type.biomesoplenty]
+			brimstone = true
+
+		[types.stone_type.blue_skies]
+			polished_brumble = true
+
+		[types.stone_type.aether]
+			holystone = true
+
+		[types.stone_type.deep_aether]
+			aseterite = true
+			aether_mud = true
+
+		[types.stone_type.aether_redux]
+			sentrite = true
+
+		[types.stone_type.twigs]
+			polished_tuff = true
+			polished_calcite = true
+			polished_schist = true
+			polished_rhyolite = true
+			polished_bloodstone = true
+			silt = true
+
+		[types.stone_type.deeperdarker]
+			sculk_stone = true
+			sculk_grime = true
+			gloomslate = true
+
+		[types.stone_type.netherexp]
+			soul_slate = true
+
+		[types.stone_type.quark]
+			soul_sandstone = true
+			permafrost = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+
+		[types.stone_type.supplementaries]
+			ash = true
 
 	[types.leaves_type]
 
@@ -996,7 +1114,6 @@
 			hollow_log = true
 			bookshelf = true
 			stripped_post = true
-			vertical_slab = true
 
 		[entries.wood_type.twilightforest]
 			banister = true

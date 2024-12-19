@@ -62,6 +62,8 @@
 
 #Entity Settings
 [entities]
+	#Ghast and Blaze Fireballs will be redesigned if enabled
+	redesigned_fireballs = true
 	#Blazes get dimmer as their health decreases like in Minecraft Dungeons
 	diminishing_blazes = true
 	#Magma Cube texture changes depending on it's size so that it's no longer mixels 
@@ -92,8 +94,6 @@
 	ecto_slab_emerging_chance = 40
 	#Defines 1 in specified chance for how often Ecto Slabs emerge from soul swirls if the player has Unbounded Speed
 	ecto_slab_emerging_with_unbounded_speed = 5
-	#Ghast and Blaze Fireballs will be redesigned if enabled
-	redesigned_fireballs = true
 
 #Game Mechanic Settings
 [game_mechanics]

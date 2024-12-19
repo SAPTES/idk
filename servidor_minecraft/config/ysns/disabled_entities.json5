@@ -13,7 +13,8 @@
   // Example: "!minecraft:.*" will disable all entities from minecraft. (NOT RECOMMENDED, JUST AN EXAMPLE)
   //  
   "disabled": [
-    "mowziesmobs:naga"
+    "mowziesmobs:naga",
+    "palegarden:creaking"
   ],
   // Don't touch this!
   "CONFIG_VERSION": 1

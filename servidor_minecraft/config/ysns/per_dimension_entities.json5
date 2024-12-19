@@ -24,11 +24,6 @@
       "entityId": "palegarden:creaking",
       "dimension": "minecraft:*",
       "spawn_chance": 0.1
-    },
-    {
-      "entityId": "palegarden:creaking_heart",
-      "dimension": "minecraft:*",
-      "spawn_chance": 0.5
     }
   ],
   // Don't touch this!
