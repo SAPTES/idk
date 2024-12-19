@@ -1,6 +1,6 @@
 JVM info: Microsoft - 21.0.5 - 21.0.5+11-LTS
 java.net.preferIPv4Stack=true
-Current Time: 19/12/2024 00:15:37
+Current Time: 19/12/2024 03:54:20
 Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
 Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
 Host: libraries.minecraft.net [13.107.246.41]
@@ -96,11 +96,11 @@ Considering library cpw.mods:bootstraplauncher:1.1.2
 Considering library net.minecraftforge:JarJarFileSystems:0.3.19
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:fmlloader:1.20.1-47.3.7
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlloader/1.20.1-47.3.7/fmlloader-1.20.1-47.3.7.jar
+Considering library net.minecraftforge:fmlloader:1.20.1-47.3.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlloader/1.20.1-47.3.0/fmlloader-1.20.1-47.3.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:fmlearlydisplay:1.20.1-47.3.7
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.7/fmlearlydisplay-1.20.1-47.3.7.jar
+Considering library net.minecraftforge:fmlearlydisplay:1.20.1-47.3.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.0/fmlearlydisplay-1.20.1-47.3.0.jar
     Download completed: Checksum validated.
 Considering library com.github.jponge:lzma-java:1.3
   Downloading library from https://maven.creeperhost.net/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar
@@ -138,15 +138,15 @@ Considering library net.minecraftforge:ForgeAutoRenamingTool:0.1.22:all
 Considering library net.minecraftforge:binarypatcher:1.1.1
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:fmlcore:1.20.1-47.3.7
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar
+Considering library net.minecraftforge:fmlcore:1.20.1-47.3.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:fmlearlydisplay:1.20.1-47.3.7
+Considering library net.minecraftforge:fmlearlydisplay:1.20.1-47.3.0
   File exists: Checksum validated.
-Considering library net.minecraftforge:fmlloader:1.20.1-47.3.7
+Considering library net.minecraftforge:fmlloader:1.20.1-47.3.0
   File exists: Checksum validated.
-Considering library net.minecraftforge:forge:1.20.1-47.3.7:universal
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar
+Considering library net.minecraftforge:forge:1.20.1-47.3.0:universal
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-universal.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:installertools:1.4.1
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar
@@ -154,14 +154,14 @@ Considering library net.minecraftforge:installertools:1.4.1
 Considering library net.minecraftforge:jarsplitter:1.1.4
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:javafmllanguage:1.20.1-47.3.7
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar
+Considering library net.minecraftforge:javafmllanguage:1.20.1-47.3.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:lowcodelanguage:1.20.1-47.3.7
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar
+Considering library net.minecraftforge:lowcodelanguage:1.20.1-47.3.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:mclanguage:1.20.1-47.3.7
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar
+Considering library net.minecraftforge:mclanguage:1.20.1-47.3.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:srgutils:0.4.3
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar
@@ -208,7 +208,7 @@ Considering library org.ow2.asm:asm:9.6
 Considering library trove:trove:1.0.2
   Downloading library from https://maven.creeperhost.net/trove/trove/1.0.2/trove-1.0.2.jar
     Download completed: Checksum validated.
-Created Temporary Directory: /tmp/forge_installer15589578116584563806
+Created Temporary Directory: /tmp/forge_installer1020042122091105291
   Extracting: /data/server.lzma
 Building Processors
 ===============================================================================
@@ -222,7 +222,7 @@ Building Processors
     /workspaces/idk/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
     /workspaces/idk/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
     /workspaces/idk/servidor_minecraft/./libraries/org/ow2/asm/asm/9.6/asm-9.6.jar
-  Args: --task, EXTRACT_FILES, --archive, /workspaces/idk/servidor_minecraft/forge.jar, --from, data/run.sh, --to, /workspaces/idk/servidor_minecraft/./run.sh, --exec, /workspaces/idk/servidor_minecraft/./run.sh, --from, data/run.bat, --to, /workspaces/idk/servidor_minecraft/./run.bat, --from, data/user_jvm_args.txt, --to, /workspaces/idk/servidor_minecraft/./user_jvm_args.txt, --optional, /workspaces/idk/servidor_minecraft/./user_jvm_args.txt, --from, data/win_args.txt, --to, /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.7/win_args.txt, --from, data/unix_args.txt, --to, /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.7/unix_args.txt
+  Args: --task, EXTRACT_FILES, --archive, /workspaces/idk/servidor_minecraft/forge.jar, --from, data/run.sh, --to, /workspaces/idk/servidor_minecraft/./run.sh, --exec, /workspaces/idk/servidor_minecraft/./run.sh, --from, data/run.bat, --to, /workspaces/idk/servidor_minecraft/./run.bat, --from, data/user_jvm_args.txt, --to, /workspaces/idk/servidor_minecraft/./user_jvm_args.txt, --optional, /workspaces/idk/servidor_minecraft/./user_jvm_args.txt, --from, data/win_args.txt, --to, /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.0/win_args.txt, --from, data/unix_args.txt, --to, /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.0/unix_args.txt
 Task: EXTRACT_FILES
 Archive: /workspaces/idk/servidor_minecraft/forge.jar
 Extract: data/run.sh
@@ -232,9 +232,9 @@ Extract: data/run.bat
 Extract: data/user_jvm_args.txt
          /workspaces/idk/servidor_minecraft/./user_jvm_args.txt
 Extract: data/win_args.txt
-         /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.7/win_args.txt
+         /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.0/win_args.txt
 Extract: data/unix_args.txt
-         /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.7/unix_args.txt
+         /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.0/unix_args.txt
 Exec:    /workspaces/idk/servidor_minecraft/./run.sh
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
@@ -11769,8 +11769,8 @@ Adding input to inheritence map
 Processing entries
 Cant Find Class: javax/annotation/Nonnull
 Cant Find Class: javax/annotation/meta/TypeQualifierDefault
-Cant Find Class: org/joml/Matrix3f
 Cant Find Class: org/joml/Vector3f
+Cant Find Class: org/joml/Matrix3f
 Cant Find Class: org/joml/Quaternionf
 Cant Find Class: org/joml/Vector3fc
 Cant Find Class: javax/annotation/Nullable
@@ -11778,14 +11778,14 @@ Cant Find Class: org/joml/Matrix3fc
 Cant Find Class: it/unimi/dsi/fastutil/booleans/BooleanList
 Cant Find Class: it/unimi/dsi/fastutil/booleans/BooleanArrayList
 Cant Find Class: com/google/common/collect/Maps
+Cant Find Class: com/mojang/datafixers/util/Pair
 Cant Find Class: it/unimi/dsi/fastutil/ints/IntIterator
 Cant Find Class: com/google/common/annotations/VisibleForTesting
-Cant Find Class: com/mojang/datafixers/util/Pair
 Cant Find Class: org/joml/Math
 Cant Find Class: org/joml/Matrix4f
+Cant Find Class: javax/annotation/ParametersAreNonnullByDefault
 Cant Find Class: org/joml/Quaternionfc
 Cant Find Class: org/apache/commons/lang3/tuple/Triple
-Cant Find Class: javax/annotation/ParametersAreNonnullByDefault
 Cant Find Class: com/mojang/serialization/codecs/RecordCodecBuilder$Instance
 Cant Find Class: com/mojang/serialization/codecs/RecordCodecBuilder
 Cant Find Class: com/mojang/datafixers/Products$P4
@@ -11798,8 +11798,8 @@ Cant Find Class: com/mojang/serialization/MapCodec
 Cant Find Class: com/mojang/datafixers/util/Function4
 Cant Find Class: com/mojang/datafixers/kinds/Applicative
 Cant Find Class: com/google/common/collect/Sets
-Cant Find Class: com/google/common/collect/Sets$SetView
 Cant Find Class: com/mojang/serialization/Keyable
+Cant Find Class: com/google/common/collect/Sets$SetView
 Cant Find Class: org/slf4j/Logger
 Cant Find Class: it/unimi/dsi/fastutil/objects/Object2ObjectOpenHashMap
 Cant Find Class: com/google/common/collect/Multimap
@@ -11819,8 +11819,8 @@ Cant Find Class: com/mojang/brigadier/tree/CommandNode
 Cant Find Class: com/google/gson/JsonArray
 Cant Find Class: com/google/common/collect/ImmutableList
 Cant Find Class: com/google/common/collect/UnmodifiableIterator
-Cant Find Class: com/google/common/base/Stopwatch
 Cant Find Class: com/google/common/collect/BiMap
+Cant Find Class: com/google/common/base/Stopwatch
 Cant Find Class: com/google/common/collect/Lists
 Cant Find Class: com/google/common/collect/ImmutableMap$Builder
 Cant Find Class: com/google/common/collect/ImmutableMap
@@ -11836,9 +11836,9 @@ Cant Find Class: it/unimi/dsi/fastutil/objects/Object2IntOpenHashMap
 Cant Find Class: org/apache/commons/lang3/mutable/MutableInt
 Cant Find Class: org/apache/commons/io/IOUtils
 Cant Find Class: com/mojang/datafixers/DataFixer
+Cant Find Class: com/google/common/collect/Streams
 Cant Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectOpenHashMap
 Cant Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectMap
-Cant Find Class: com/google/common/collect/Streams
 Cant Find Class: com/google/gson/JsonPrimitive
 Cant Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectFunction
 Cant Find Class: it/unimi/dsi/fastutil/objects/Object2IntMap
@@ -11951,9 +11951,9 @@ Cant Find Class: com/mojang/brigadier/suggestion/SuggestionProvider
 Cant Find Class: com/mojang/brigadier/tree/ArgumentCommandNode
 Cant Find Class: it/unimi/dsi/fastutil/shorts/ShortSet
 Cant Find Class: it/unimi/dsi/fastutil/shorts/ShortIterator
-Cant Find Class: com/mojang/authlib/properties/PropertyMap
 Cant Find Class: com/mojang/brigadier/context/StringRange
 Cant Find Class: com/mojang/brigadier/suggestion/Suggestion
+Cant Find Class: com/mojang/authlib/properties/PropertyMap
 Cant Find Class: it/unimi/dsi/fastutil/ints/IntOpenHashSet
 Cant Find Class: it/unimi/dsi/fastutil/ints/IntSets
 Cant Find Class: it/unimi/dsi/fastutil/ints/IntCollection
@@ -11970,12 +11970,12 @@ Cant Find Class: io/netty/channel/Channel
 Cant Find Class: io/netty/util/Attribute
 Cant Find Class: it/unimi/dsi/fastutil/objects/ObjectOpenHashSet
 Cant Find Class: com/google/gson/TypeAdapter
+Cant Find Class: com/google/gson/TypeAdapterFactory
 Cant Find Class: com/mojang/brigadier/ParseResults
+Cant Find Class: com/google/common/base/Preconditions
 Cant Find Class: com/mojang/brigadier/context/CommandContextBuilder
 Cant Find Class: com/mojang/brigadier/context/ParsedCommandNode
 Cant Find Class: com/mojang/brigadier/context/ParsedArgument
-Cant Find Class: com/google/gson/TypeAdapterFactory
-Cant Find Class: com/google/common/base/Preconditions
 Cant Find Class: it/unimi/dsi/fastutil/ints/Int2IntFunction
 Cant Find Class: com/mojang/datafixers/Products$P8
 Cant Find Class: com/mojang/datafixers/util/Function8
@@ -11990,19 +11990,21 @@ Cant Find Class: io/netty/channel/ChannelOption
 Cant Find Class: io/netty/channel/ChannelPipeline
 Cant Find Class: io/netty/handler/timeout/ReadTimeoutHandler
 Cant Find Class: io/netty/channel/ChannelHandler
-Cant Find Class: io/netty/handler/codec/MessageToMessageEncoder
 Cant Find Class: org/apache/commons/lang3/ObjectUtils
 Cant Find Class: it/unimi/dsi/fastutil/objects/ObjectCollection
+Cant Find Class: io/netty/handler/codec/MessageToMessageEncoder
 Cant Find Class: io/netty/channel/ChannelHandler$Sharable
 Cant Find Class: it/unimi/dsi/fastutil/ints/IntConsumer
-Cant Find Class: org/slf4j/Marker
-Cant Find Class: io/netty/channel/nio/NioEventLoopGroup
-Cant Find Class: io/netty/channel/epoll/EpollEventLoopGroup
-Cant Find Class: io/netty/channel/DefaultEventLoopGroup
 Cant Find Class: io/netty/buffer/ByteBufOutputStream
 Cant Find Class: io/netty/buffer/ByteBufInputStream
 Cant Find Class: com/mojang/authlib/properties/Property
 Cant Find Class: io/netty/buffer/ByteBufAllocator
+Cant Find Class: io/netty/util/ByteProcessor
+Cant Find Class: io/netty/util/ReferenceCounted
+Cant Find Class: org/slf4j/Marker
+Cant Find Class: io/netty/channel/nio/NioEventLoopGroup
+Cant Find Class: io/netty/channel/epoll/EpollEventLoopGroup
+Cant Find Class: io/netty/channel/DefaultEventLoopGroup
 Cant Find Class: io/netty/handler/timeout/TimeoutException
 Cant Find Class: io/netty/channel/EventLoop
 Cant Find Class: io/netty/util/concurrent/Future
@@ -12016,12 +12018,10 @@ Cant Find Class: io/netty/channel/socket/nio/NioSocketChannel
 Cant Find Class: io/netty/bootstrap/Bootstrap
 Cant Find Class: io/netty/channel/EventLoopGroup
 Cant Find Class: io/netty/bootstrap/AbstractBootstrap
+Cant Find Class: io/netty/handler/codec/CorruptedFrameException
 Cant Find Class: io/netty/channel/socket/SocketChannel
 Cant Find Class: com/google/common/util/concurrent/ThreadFactoryBuilder
 Cant Find Class: org/slf4j/MarkerFactory
-Cant Find Class: io/netty/handler/codec/CorruptedFrameException
-Cant Find Class: io/netty/util/ByteProcessor
-Cant Find Class: io/netty/util/ReferenceCounted
 Cant Find Class: io/netty/util/ResourceLeakDetector$Level
 Cant Find Class: io/netty/util/ResourceLeakDetector
 Cant Find Class: com/mojang/datafixers/DSL$TypeReference
@@ -12039,9 +12039,9 @@ Cant Find Class: com/google/gson/reflect/TypeToken
 Cant Find Class: com/google/gson/stream/JsonToken
 Cant Find Class: com/mojang/authlib/yggdrasil/ServicesKeyType
 Cant Find Class: com/mojang/authlib/yggdrasil/ServicesKeyInfo
+Cant Find Class: it/unimi/dsi/fastutil/objects/ObjectArrays
 Cant Find Class: it/unimi/dsi/fastutil/floats/FloatList
 Cant Find Class: it/unimi/dsi/fastutil/floats/FloatArrayList
-Cant Find Class: it/unimi/dsi/fastutil/objects/ObjectArrays
 Cant Find Class: com/mojang/serialization/Codec$ResultFunction
 Cant Find Class: org/joml/AxisAngle4f
 Cant Find Class: com/sun/jna/platform/win32/Tlhelp32$MODULEENTRY32W
@@ -12061,13 +12061,13 @@ Cant Find Class: com/google/common/base/Suppliers
 Cant Find Class: org/jetbrains/annotations/Contract
 Cant Find Class: com/mojang/datafixers/DataFix
 Cant Find Class: com/mojang/datafixers/types/templates/TaggedChoice$TaggedChoiceType
-Cant Find Class: com/mojang/datafixers/schemas/Schema
 Cant Find Class: com/mojang/datafixers/types/templates/TaggedChoice
+Cant Find Class: com/mojang/datafixers/schemas/Schema
 Cant Find Class: com/mojang/datafixers/TypeRewriteRule
+Cant Find Class: com/mojang/datafixers/types/Type
 Cant Find Class: com/mojang/datafixers/Typed
 Cant Find Class: com/mojang/datafixers/OpticFinder
 Cant Find Class: com/mojang/serialization/OptionalDynamic
-Cant Find Class: com/mojang/datafixers/types/Type
 Cant Find Class: com/mojang/serialization/DynamicLike
 Cant Find Class: com/mojang/datafixers/types/templates/Tag$TagType
 Cant Find Class: com/mojang/datafixers/types/templates/Tag
@@ -12133,9 +12133,9 @@ Cant Find Class: it/unimi/dsi/fastutil/longs/Long2LongMap
 Cant Find Class: it/unimi/dsi/fastutil/longs/Long2LongOpenHashMap
 Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2ObjectMap
 Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2ObjectOpenHashMap
+Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2ObjectFunction
 Cant Find Class: it/unimi/dsi/fastutil/longs/Long2ByteMap
 Cant Find Class: it/unimi/dsi/fastutil/longs/Long2ByteOpenHashMap
-Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2ObjectFunction
 Cant Find Class: org/apache/commons/lang3/mutable/MutableLong
 Cant Find Class: com/mojang/datafixers/kinds/OptionalBox$Mu
 Cant Find Class: com/mojang/datafixers/kinds/OptionalBox
@@ -12193,7 +12193,6 @@ Cant Find Class: com/google/common/collect/AbstractTable
 Cant Find Class: com/google/common/collect/ImmutableSortedMap
 Cant Find Class: com/mojang/serialization/MapEncoder
 Cant Find Class: com/mojang/serialization/MapDecoder
-Cant Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectMaps
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongSortedSet
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongAVLTreeSet
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongBidirectionalIterator
@@ -12201,6 +12200,7 @@ Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanMap
 Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanFunction
 Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanOpenHashMap
 Cant Find Class: it/unimi/dsi/fastutil/objects/Object2BooleanFunction
+Cant Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectMaps
 Cant Find Class: com/mojang/datafixers/Products$P6
 Cant Find Class: com/mojang/datafixers/util/Function6
 Cant Find Class: com/mojang/serialization/codecs/RecordCodecBuilder$Mu
@@ -12245,9 +12245,9 @@ Cant Find Class: it/unimi/dsi/fastutil/longs/LongCollection
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongArrayFIFOQueue
 Cant Find Class: it/unimi/dsi/fastutil/longs/Long2LongLinkedOpenHashMap
 Cant Find Class: com/google/common/collect/ComparisonChain
+Cant Find Class: com/google/common/base/Strings
 Found extra RuntimeVisibleParameterAnnotations entries in <init>(Ljava/lang/String;ILjava/lang/String;CILjava/lang/Integer;)V in net/minecraft/ChatFormatting: removing 2
 Found extra RuntimeVisibleParameterAnnotations entries in <init>(Ljava/lang/String;ILjava/lang/String;CZILjava/lang/Integer;)V in net/minecraft/ChatFormatting: removing 2
-Cant Find Class: com/google/common/base/Strings
 Cant Find Class: com/mojang/serialization/RecordBuilder$AbstractStringBuilder
 Cant Find Class: it/unimi/dsi/fastutil/bytes/ByteArrayList
 Cant Find Class: it/unimi/dsi/fastutil/bytes/ByteConsumer
@@ -12262,10 +12262,10 @@ Cant Find Class: oshi/hardware/GlobalMemory
 Cant Find Class: oshi/hardware/GraphicsCard
 Cant Find Class: it/unimi/dsi/fastutil/Stack
 Cant Find Class: com/mojang/authlib/yggdrasil/YggdrasilAuthenticationService
-Cant Find Class: com/google/common/primitives/Floats
 Cant Find Class: com/mojang/authlib/exceptions/AuthenticationUnavailableException
 Cant Find Class: io/netty/channel/ChannelInboundHandlerAdapter
 Cant Find Class: io/netty/util/Timer
+Cant Find Class: com/google/common/primitives/Floats
 Cant Find Class: io/netty/util/Timeout
 Cant Find Class: io/netty/util/TimerTask
 Cant Find Class: io/netty/util/HashedWheelTimer
@@ -12291,9 +12291,9 @@ Cant Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectSortedMap
 Cant Find Class: it/unimi/dsi/fastutil/objects/ObjectBidirectionalIterator
 Cant Find Class: com/google/common/net/InetAddresses
 Cant Find Class: com/mojang/brigadier/arguments/DoubleArgumentType
+Cant Find Class: com/mojang/logging/LogQueues
 Cant Find Class: com/mojang/brigadier/exceptions/Dynamic3CommandExceptionType
 Cant Find Class: com/mojang/brigadier/arguments/FloatArgumentType
-Cant Find Class: com/mojang/logging/LogQueues
 Cant Find Class: com/mojang/brigadier/exceptions/Dynamic3CommandExceptionType$Function
 Cant Find Class: com/mojang/brigadier/exceptions/Dynamic4CommandExceptionType$Function
 Cant Find Class: com/mojang/brigadier/exceptions/Dynamic4CommandExceptionType
@@ -18006,15 +18006,15 @@ Writing Output: /workspaces/idk/servidor_minecraft/./libraries/net/minecraft/ser
     /workspaces/idk/servidor_minecraft/./libraries/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
     /workspaces/idk/servidor_minecraft/./libraries/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar
     /workspaces/idk/servidor_minecraft/./libraries/trove/trove/1.0.2/trove-1.0.2.jar
-  Args: --clean, /workspaces/idk/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar, --output, /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-server.jar, --apply, /tmp/forge_installer15589578116584563806/data/server.lzma
+  Args: --clean, /workspaces/idk/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar, --output, /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-server.jar, --apply, /tmp/forge_installer1020042122091105291/data/server.lzma
 Applying: 
   Clean:     /workspaces/idk/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar
-  Output:    /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-server.jar
+  Output:    /workspaces/idk/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-server.jar
   KeepData:  false
   Unpatched: false
   Pack200:   false
   Legacy:    false
-Loading patches file: /tmp/forge_installer15589578116584563806/data/server.lzma
+Loading patches file: /tmp/forge_installer1020042122091105291/data/server.lzma
   Reading patch com.mojang.blaze3d.pipeline.RenderTarget.binpatch
     Checksum: 0 Exists: false
   Reading patch com.mojang.blaze3d.platform.GlStateManager$BlendState.binpatch
@@ -20567,8 +20567,6 @@ Loading patches file: /tmp/forge_installer15589578116584563806/data/server.lzma
     Checksum: 8c8e9a82 Exists: true
   Reading patch net.minecraft.world.level.block.entity.ConduitBlockEntity.binpatch
     Checksum: dc15d3e2 Exists: true
-  Reading patch net.minecraft.world.level.block.entity.HangingSignBlockEntity.binpatch
-    Checksum: 472f4399 Exists: true
   Reading patch net.minecraft.world.level.block.entity.HopperBlockEntity.binpatch
     Checksum: 47fa439d Exists: true
   Reading patch net.minecraft.world.level.block.entity.ShulkerBoxBlockEntity$1.binpatch
@@ -21727,7 +21725,6 @@ Processing: /workspaces/idk/servidor_minecraft/./libraries/net/minecraft/server/
   Patching net/minecraft/world/level/block/entity/ChestBlockEntity 1/1
   Patching net/minecraft/world/level/block/entity/ChiseledBookShelfBlockEntity 1/1
   Patching net/minecraft/world/level/block/entity/ConduitBlockEntity 1/1
-  Patching net/minecraft/world/level/block/entity/HangingSignBlockEntity 1/1
   Patching net/minecraft/world/level/block/entity/HopperBlockEntity 1/1
   Patching net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$1 1/1
   Patching net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus 1/1
